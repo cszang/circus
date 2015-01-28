@@ -1,0 +1,11 @@
+* circus
+  
+  Exact simulation of a time series by circulant embedding
+
+** Installation
+
+#+begin_src R
+install.packages("devtools")
+library(devtools)
+install_github("cszang/circus")
+#+end_src

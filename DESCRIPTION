@@ -1,0 +1,15 @@
+Package: circus
+Type: Package
+Title: Circulant Embedding for Statistically Exact Simulations of Time Series
+Version: 1.0.0
+Date: 2015-01-28
+Authors@R: c(person("Christian", "Zang", role = c("aut", "cre", "cph", "trl"),
+    email = "christian.zang@wzw.tum.de"))
+Depends:
+    R (>= 3.0.2),
+    base,
+    stats
+Description: Generate simulations from stationary processes.
+NeedsCompilation: no
+License: GPL-3
+LazyData: yes
